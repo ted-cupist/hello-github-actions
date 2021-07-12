@@ -3,7 +3,7 @@ description: "Greet someone"
 author: "ted@cupist.com"
 
 inputs:
-  MY_NAMe:
+  MY_NAME:
     description: "Who to greet"
     required: true
     default: "World"
